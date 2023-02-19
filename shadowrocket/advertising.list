@@ -1,0 +1,291 @@
+# > Apple
+.iadsdk.apple.com
+.ads.internal.unity3d.com
+.ads.prd.ie.internal.unity3d.com
+.unityads.unity3d.com
+
+# --- (Alibaba) ---
+tunion-api.m.taobao.com
+# > YOUKU
+.atm.youku.com
+ad.mobile.youku.com
+adx.op.cp18.ott.cibntv.net
+iyes.youku.com
+pl.cp31.ott.cibntv.net
+# > AMap
+optimus-ads.amap.com
+optimus-ads.amap.com.w.alikunlun.com
+# ------
+
+# --- (Baidu) ---
+.duapps.com
+.cpro.baidu.com
+.pos.baidu.com
+afd.baidu.com
+als.baidu.com
+duclick.baidu.com
+mobads.baidu.com
+mobads-logs.baidu.com
+nadvideo2.baidu.com
+nsclick.baidu.com
+# > iQIYI
+t7z.cupid.iqiyi.com
+t7z.cupid.ptqy.gitv.tv
+# ------
+
+# > ByteDance
+.pangolin-sdk-toutiao.com
+.pangolin-sdk-toutiao-b.com
+ad.toutiao.com
+dsp.toutiao.com
+pangolin.snssdk.com
+
+# > Braze
+.iad.appboy.com
+.iad-03.appboy.com
+.iad-01.braze.com
+.iad-02.braze.com
+.iad-03.braze.com
+.iad-04.braze.com
+.iad-05.braze.com
+.iad-06.braze.com
+.iad-08.braze.com
+
+# > CCTVVideo
+adstore-index-1252524079.file.myqcloud.com
+
+# > CNTV
+galaxy.bjcathay.com
+mdrecv.app.cntvwb.cn
+sdapprecv.app.cntvwb.cn
+vdapprecv.app.cntvwb.cn
+
+# > ChinaTelecom
+ad.21cn.com
+ad.k.21cn.com
+admarket.21cn.com
+adshows.21cn.com
+
+# > Camera360
+dispatcher.360in.com
+ad.360in.com
+exp.360in.com
+
+# > Google
+.doubleclick.net
+.googleadservices.com
+.googleadsserving.cn
+.googlesyndication.com
+.googletagservices.com
+ads.youtube.com
+
+# > HunanTV
+.da.mgtv.com
+.da.hunantv.com
+.log.hunantv.com
+.v2.hunantv.com
+
+# > Hupu
+adx.hupu.com
+adx-api.hupu.com
+goblin.hupu.com
+
+# > happycast
+ad.hpplay.cn
+adc.hpplay.cn
+adcdn.hpplay.cn
+adeng.hpplay.cn
+pin.hpplay.cn
+rp.hpplay.cn
+rpt.hpplay.cn
+
+# > Kingsoft
+ad-stat.ksosoft.com
+img.auction-ads.wpscdn.cn
+counter.kingsoft.com
+counter.ksosoft.com
+minfo.wps.cn
+mobad.ijinshan.com
+ups.ksmobile.net
+ws.ksmobile.net
+
+# > Kuaishou
+.e.kuaishou.com
+js-ad.a.yximgs.com
+
+# > Le
+.webp2p.letv.com
+ark.letv.com
+emma-414870e223.huodonghezi.com
+g3.letv.com
+n.mark.letv.com
+# > LinkWiFi
+a.wkanx.com
+cwx.lianwangtech.com
+c1wx.lianwangtech.com
+
+# > Microsoft
+.ads.msn.com
+.ads1.msn.com
+.ads2.msn.com
+.bingads.microsoft.com
+.rads.msn.com
+mobileads.msn.com
+
+# > MiguVideo
+.ad.cmvideo.cn
+ggc.cmvideo.cn
+ggic03.miguvideo.com
+ggmk.miguvideo.com
+ggv.cmvideo.cn
+ggx.cmvideo.cn
+ggx03.miguvideo.com
+
+# > NetEase
+.dsp.youdao.com
+.union.youdao.com
+ad.bn.netease.com
+ad.yixin.im
+admusicpic.music.126.net
+g1.163.com
+gorgon.youdao.com
+iad.g.163.com
+iadmat.nosdn.127.net
+iadmusicmat.music.126.net
+iadmusicmatvideo.music.126.net
+impservice.dictapp.youdao.com
+impservice.youdao.com
+n.3g.163.com
+nex.163.com
+yt-adp.nosdn.127.net
+yt-adp.ws.126.net
+
+# > PPTV
+ads.aplus.pptv.com
+ads.aplusapi.pptv.com
+asimgs.pplive.cn
+de.as.pptv.com
+
+# > Phoenix New Media
+.deliver.ifeng.com
+api.newad.ifeng.com
+ifengad.3g.ifeng.com
+
+# > QingTing
+ad.qingting.fm
+adlaunch.qingting.fm
+ad-cdn.qingting.fm
+
+# > OPPO
+.ads.oppomobile.com
+adsfs.oppomobile.com
+
+# > Sina
+.alitui.weibo.com
+.beacon.sina.com.cn
+adimg.uve.weibo.com
+adimg.vue.weibo.com
+u1.img.mobile.sina.cn
+sax.sina.com.cn
+saxs.sina.com.cn
+saxn.sina.com.cn
+
+# > SOHU
+.ad.sohu.com
+.ads.sohu.com
+.aty.sohu.com
+hui.sohu.com
+.pv.sohu.com
+
+# > Snapchat
+ads.snapchat.com
+adsapi.snapchat.com
+
+# --- (Tencent) ---
+.e.qq.com
+.gdt.qq.com
+.l.qq.com
+adsmind.apdcdn.tc.qq.com
+adsmind.gdtimg.com
+adsmind.tc.qq.com
+adsmind.ugdtimg.com
+livep.l.t002.ottcn.com
+pgdt.gtimg.cn
+pgdt.gtimg.com
+pgdt.ugdtimg.com
+splashqqlive.gtimg.com
+wa.gtimg.com
+# wxsnsdy.wxs.qq.com
+# wxsnsdythumb.wxs.qq.com
+# > Tencent Music (TME)
+ad.tencentmusic.com
+adstats.tencentmusic.com
+adserviceretry.kugou.com
+ads.service.kugou.com
+adsfile.bssdlbig.kugou.com
+g.koowo.com
+kgmobilestat.kugou.com
+kgmobilestatbak.kugou.com
+mobilelog.kugou.com
+mobilead.kuwo.cn
+rich.kuwo.cn
+tmead.y.qq.com
+splashimgbssdl.yun.kugou.com
+adsfilebssdlbig.tx.kugou.com
+# ------
+
+# > Thunder
+adsp.xunlei.com
+etl.xlmc.sandai.net
+
+# > vivo
+adlog.vivo.com.cn
+adreq.vivo.com.cn
+ads-marketing-vivofs.vivo.com.cn
+adsdk.vivo.com.cn
+adsstatic.vivo.com.cn
+adxlog.vivo.com.cn
+vcardsdkservice.vivo.com.cn
+DOMAIN-KEYWORD,stsdk.vivo.com.cn
+DOMAIN-KEYWORD,stsdk.vivoglobal.com
+
+# > Viber
+ads.viber.com
+ads-d.viber.com
+ads.aws.viber.com
+
+# > Ximalaya
+ad.ximalaya.com
+adbs.ximalaya.com
+adse.ximalaya.com
+adse.wsa.ximalaya.com
+adbehavior.wsa.ximalaya.com
+adbehavior.ximalaya.com
+adsebs.ximalaya.com
+adwbs.ximalaya.com
+
+# > Xiaohongshu
+ads-img-qc.xhscdn.com
+ads-video-al.xhscdn.com
+ads-video-qc.xhscdn.com
+t-ads.xiaohongshu.com
+
+# > Yahoo
+.adserver.yahoo.com
+.adspecs.yahoo.com
+.advertising.yahoo.com
+.gemini.yahoo.com
+admarketing.yahoo.net
+ads.auctions.yahoo.com
+ads.finance.yahoo.com
+ads.yahoo.com
+ads.yahoo.de
+
+# > Zhihu
+appcloud2.in.zhihu.com
+mqtt.zhihu.com
+sugar.zhihu.com
+
+# > ZOL
+apppv.zol.com.cn
+pvnapp.zol.com.cn

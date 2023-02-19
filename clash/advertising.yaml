@@ -1,0 +1,292 @@
+payload:
+  # > Apple
+  - "+.iadsdk.apple.com"
+  - "+.ads.internal.unity3d.com"
+  - "+.ads.prd.ie.internal.unity3d.com"
+  - "+.unityads.unity3d.com"
+
+  # --- (Alibaba) ---
+  - "union-api.m.taobao.com"
+  # > YOUKU
+  - "+.atm.youku.com"
+  - "d.mobile.youku.com"
+  - "dx.op.cp18.ott.cibntv.net"
+  - "yes.youku.com"
+  - "l.cp31.ott.cibntv.net"
+  # > AMap
+  - "ptimus-ads.amap.com"
+  - "ptimus-ads.amap.com.w.alikunlun.com"
+  # ------
+
+  # --- (Baidu) ---
+  - "+.duapps.com"
+  - "+.cpro.baidu.com"
+  - "+.pos.baidu.com"
+  - "fd.baidu.com"
+  - "ls.baidu.com"
+  - "uclick.baidu.com"
+  - "obads.baidu.com"
+  - "obads-logs.baidu.com"
+  - "advideo2.baidu.com"
+  - "sclick.baidu.com"
+  # > iQIYI
+  - "7z.cupid.iqiyi.com"
+  - "7z.cupid.ptqy.gitv.tv"
+  # ------
+
+  # > ByteDance
+  - "+.pangolin-sdk-toutiao.com"
+  - "+.pangolin-sdk-toutiao-b.com"
+  - "d.toutiao.com"
+  - "sp.toutiao.com"
+  - "angolin.snssdk.com"
+
+  # > Braze
+  - "+.iad.appboy.com"
+  - "+.iad-03.appboy.com"
+  - "+.iad-01.braze.com"
+  - "+.iad-02.braze.com"
+  - "+.iad-03.braze.com"
+  - "+.iad-04.braze.com"
+  - "+.iad-05.braze.com"
+  - "+.iad-06.braze.com"
+  - "+.iad-08.braze.com"
+
+  # > CCTVVideo
+  - "dstore-index-1252524079.file.myqcloud.com"
+
+  # > CNTV
+  - "alaxy.bjcathay.com"
+  - "drecv.app.cntvwb.cn"
+  - "dapprecv.app.cntvwb.cn"
+  - "dapprecv.app.cntvwb.cn"
+
+  # > ChinaTelecom
+  - "d.21cn.com"
+  - "d.k.21cn.com"
+  - "dmarket.21cn.com"
+  - "dshows.21cn.com"
+
+  # > Camera360
+  - "ispatcher.360in.com"
+  - "d.360in.com"
+  - "xp.360in.com"
+
+  # > Google
+  - "+.doubleclick.net"
+  - "+.googleadservices.com"
+  - "+.googleadsserving.cn"
+  - "+.googlesyndication.com"
+  - "+.googletagservices.com"
+  - "ds.youtube.com"
+
+  # > HunanTV
+  - "+.da.mgtv.com"
+  - "+.da.hunantv.com"
+  - "+.log.hunantv.com"
+  - "+.v2.hunantv.com"
+
+  # > Hupu
+  - "dx.hupu.com"
+  - "dx-api.hupu.com"
+  - "oblin.hupu.com"
+
+  # > happycast
+  - "d.hpplay.cn"
+  - "dc.hpplay.cn"
+  - "dcdn.hpplay.cn"
+  - "deng.hpplay.cn"
+  - "in.hpplay.cn"
+  - "p.hpplay.cn"
+  - "pt.hpplay.cn"
+
+  # > Kingsoft
+  - "d-stat.ksosoft.com"
+  - "mg.auction-ads.wpscdn.cn"
+  - "ounter.kingsoft.com"
+  - "ounter.ksosoft.com"
+  - "info.wps.cn"
+  - "obad.ijinshan.com"
+  - "ps.ksmobile.net"
+  - "s.ksmobile.net"
+
+  # > Kuaishou
+  - "+.e.kuaishou.com"
+  - "s-ad.a.yximgs.com"
+
+  # > Le
+  - "+.webp2p.letv.com"
+  - "rk.letv.com"
+  - "mma-414870e223.huodonghezi.com"
+  - "3.letv.com"
+  - "+.mark.letv.com"
+  # > LinkWiFi
+  - "+.wkanx.com"
+  - "wx.lianwangtech.com"
+  - "1wx.lianwangtech.com"
+
+  # > Microsoft
+  - "+.ads.msn.com"
+  - "+.ads1.msn.com"
+  - "+.ads2.msn.com"
+  - "+.bingads.microsoft.com"
+  - "+.rads.msn.com"
+  - "obileads.msn.com"
+
+  # > MiguVideo
+  - "+.ad.cmvideo.cn"
+  - "gc.cmvideo.cn"
+  - "gic03.miguvideo.com"
+  - "gmk.miguvideo.com"
+  - "gv.cmvideo.cn"
+  - "gx.cmvideo.cn"
+  - "gx03.miguvideo.com"
+
+  # > NetEase
+  - "+.dsp.youdao.com"
+  - "+.union.youdao.com"
+  - "d.bn.netease.com"
+  - "d.yixin.im"
+  - "dmusicpic.music.126.net"
+  - "1.163.com"
+  - "orgon.youdao.com"
+  - "ad.g.163.com"
+  - "admat.nosdn.127.net"
+  - "admusicmat.music.126.net"
+  - "admusicmatvideo.music.126.net"
+  - "mpservice.dictapp.youdao.com"
+  - "mpservice.youdao.com"
+  - "+.3g.163.com"
+  - "ex.163.com"
+  - "t-adp.nosdn.127.net"
+  - "t-adp.ws.126.net"
+
+  # > PPTV
+  - "ds.aplus.pptv.com"
+  - "ds.aplusapi.pptv.com"
+  - "simgs.pplive.cn"
+  - "e.as.pptv.com"
+
+  # > Phoenix New Media
+  - "+.deliver.ifeng.com"
+  - "pi.newad.ifeng.com"
+  - "fengad.3g.ifeng.com"
+
+  # > QingTing
+  - "d.qingting.fm"
+  - "dlaunch.qingting.fm"
+  - "d-cdn.qingting.fm"
+
+  # > OPPO
+  - "+.ads.oppomobile.com"
+  - "dsfs.oppomobile.com"
+
+  # > Sina
+  - "+.alitui.weibo.com"
+  - "+.beacon.sina.com.cn"
+  - "dimg.uve.weibo.com"
+  - "dimg.vue.weibo.com"
+  - "1.img.mobile.sina.cn"
+  - "ax.sina.com.cn"
+  - "axs.sina.com.cn"
+  - "axn.sina.com.cn"
+
+  # > SOHU
+  - "+.ad.sohu.com"
+  - "+.ads.sohu.com"
+  - "+.aty.sohu.com"
+  - "ui.sohu.com"
+  - "+.pv.sohu.com"
+
+  # > Snapchat
+  - "ds.snapchat.com"
+  - "dsapi.snapchat.com"
+
+  # --- (Tencent) ---
+  - "+.e.qq.com"
+  - "+.gdt.qq.com"
+  - "+.l.qq.com"
+  - "dsmind.apdcdn.tc.qq.com"
+  - "dsmind.gdtimg.com"
+  - "dsmind.tc.qq.com"
+  - "dsmind.ugdtimg.com"
+  - "ivep.l.t002.ottcn.com"
+  - "gdt.gtimg.cn"
+  - "gdt.gtimg.com"
+  - "gdt.ugdtimg.com"
+  - "plashqqlive.gtimg.com"
+  - "a.gtimg.com"
+  # wxsnsdy.wxs.qq.com
+  # wxsnsdythumb.wxs.qq.com
+  # > Tencent Music (TME)
+  - "d.tencentmusic.com"
+  - "dstats.tencentmusic.com"
+  - "dserviceretry.kugou.com"
+  - "ds.service.kugou.com"
+  - "dsfile.bssdlbig.kugou.com"
+  - "+.koowo.com"
+  - "gmobilestat.kugou.com"
+  - "gmobilestatbak.kugou.com"
+  - "obilelog.kugou.com"
+  - "obilead.kuwo.cn"
+  - "ich.kuwo.cn"
+  - "mead.y.qq.com"
+  - "plashimgbssdl.yun.kugou.com"
+  - "dsfilebssdlbig.tx.kugou.com"
+  # ------
+
+  # > Thunder
+  - "dsp.xunlei.com"
+  - "tl.xlmc.sandai.net"
+
+  # > vivo
+  - "dlog.vivo.com.cn"
+  - "dreq.vivo.com.cn"
+  - "ds-marketing-vivofs.vivo.com.cn"
+  - "dsdk.vivo.com.cn"
+  - "dsstatic.vivo.com.cn"
+  - "dxlog.vivo.com.cn"
+  - "cardsdkservice.vivo.com.cn"
+  - "OMAIN-KEYWORD,stsdk.vivo.com.cn"
+  - "OMAIN-KEYWORD,stsdk.vivoglobal.com"
+
+  # > Viber
+  - "ds.viber.com"
+  - "ds-d.viber.com"
+  - "ds.aws.viber.com"
+
+  # > Ximalaya
+  - "d.ximalaya.com"
+  - "dbs.ximalaya.com"
+  - "dse.ximalaya.com"
+  - "dse.wsa.ximalaya.com"
+  - "dbehavior.wsa.ximalaya.com"
+  - "dbehavior.ximalaya.com"
+  - "dsebs.ximalaya.com"
+  - "dwbs.ximalaya.com"
+
+  # > Xiaohongshu
+  - "ds-img-qc.xhscdn.com"
+  - "ds-video-al.xhscdn.com"
+  - "ds-video-qc.xhscdn.com"
+  - "-ads.xiaohongshu.com"
+
+  # > Yahoo
+  - "+.adserver.yahoo.com"
+  - "+.adspecs.yahoo.com"
+  - "+.advertising.yahoo.com"
+  - "+.gemini.yahoo.com"
+  - "dmarketing.yahoo.net"
+  - "ds.auctions.yahoo.com"
+  - "ds.finance.yahoo.com"
+  - "ds.yahoo.com"
+  - "ds.yahoo.de"
+
+  # > Zhihu
+  - "ppcloud2.in.zhihu.com"
+  - "qtt.zhihu.com"
+  - "ugar.zhihu.com"
+
+  # > ZOL
+  - "pppv.zol.com.cn"
+  - "vnapp.zol.com.cn"
