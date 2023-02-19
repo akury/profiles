@@ -1,0 +1,89 @@
+payload:
+  # > Alibaba
+  - "tunion-api.m.taobao.com"
+
+  # > AMap
+  - "optimus-ads.amap.com"
+  - "optimus-ads.amap.com.w.alikunlun.com"
+
+  # > Baidu
+  - "+.duapps.com"
+  - "+.cpro.baidu.com"
+  - "+.pos.baidu.com"
+  - "afd.baidu.com"
+  - "als.baidu.com"
+  - "duclick.baidu.com"
+  - "mobads.baidu.com"
+  - "mobads-logs.baidu.com"
+  - "nadvideo2.baidu.com"
+  - "nsclick.baidu.com"
+
+  # > ByteDance
+  - "+.pangolin-sdk-toutiao.com"
+  - "+.pangolin-sdk-toutiao-b.com"
+  - "ad.toutiao.com"
+  - "dsp.toutiao.com"
+  - "pangolin.snssdk.com"
+
+  # > iQIYI
+  - "t7z.cupid.iqiyi.com"
+  - "t7z.cupid.ptqy.gitv.tv"
+
+  # > NetEase
+  - "+.dsp.youdao.com"
+  - "+.union.youdao.com"
+  - "ad.bn.netease.com"
+  - "ad.yixin.im"
+  - "admusicpic.music.126.net"
+  - "g1.163.com"
+  - "gorgon.youdao.com"
+  - "iad.g.163.com"
+  - "iadmat.nosdn.127.net"
+  - "iadmusicmat.music.126.net"
+  - "iadmusicmatvideo.music.126.net"
+  - "impservice.dictapp.youdao.com"
+  - "impservice.youdao.com"
+  - "n.3g.163.com"
+  - "nex.163.com"
+  - "yt-adp.nosdn.127.net"
+  - "yt-adp.ws.126.net"
+
+  # > Sina
+  - "+.alitui.weibo.com"
+  - "+.beacon.sina.com.cn"
+  - "adimg.uve.weibo.com"
+  - "adimg.vue.weibo.com"
+  - "u1.img.mobile.sina.cn"
+  - "sax.sina.com.cn"
+  - "saxs.sina.com.cn"
+  - "saxn.sina.com.cn"
+
+  # > Tencent
+  - "+.e.qq.com"
+  - "+.gdt.qq.com"
+  - "+.l.qq.com"
+  - "adsmind.apdcdn.tc.qq.com"
+  - "adsmind.gdtimg.com"
+  - "adsmind.tc.qq.com"
+  - "adsmind.ugdtimg.com"
+  - "livep.l.t002.ottcn.com"
+  - "pgdt.gtimg.cn"
+  - "pgdt.gtimg.com"
+  - "pgdt.ugdtimg.com"
+  - "splashqqlive.gtimg.com"
+  - "wa.gtimg.com"
+  # > Tencent Music (TME)
+  - "ad.tencentmusic.com"
+  - "adstats.tencentmusic.com"
+  - "adserviceretry.kugou.com"
+  - "ads.service.kugou.com"
+  - "adsfile.bssdlbig.kugou.com"
+  - "g.koowo.com"
+  - "kgmobilestat.kugou.com"
+  - "kgmobilestatbak.kugou.com"
+  - "mobilelog.kugou.com"
+  - "mobilead.kuwo.cn"
+  - "rich.kuwo.cn"
+  - "tmead.y.qq.com"
+  - "splashimgbssdl.yun.kugou.com"
+  - "adsfilebssdlbig.tx.kugou.com"
